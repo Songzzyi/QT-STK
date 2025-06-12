@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/卫星.ico</file>
+        <file>Resource/zoomIn.ico</file>
+        <file>Resource/zoomOut.ico</file>
+    </qresource>
+</RCC>
